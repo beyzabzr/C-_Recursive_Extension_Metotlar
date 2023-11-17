@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "rekürsif_ve_extension_metotlar/1.0.0": {
+        "runtime": {
+          "rekürsif_ve_extension_metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rekürsif_ve_extension_metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

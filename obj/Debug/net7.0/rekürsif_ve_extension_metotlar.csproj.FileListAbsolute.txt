@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\bin\Debug\net7.0\rekürsif_ve_extension_metotlar.exe
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\bin\Debug\net7.0\rekürsif_ve_extension_metotlar.deps.json
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\bin\Debug\net7.0\rekürsif_ve_extension_metotlar.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\bin\Debug\net7.0\rekürsif_ve_extension_metotlar.dll
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\bin\Debug\net7.0\rekürsif_ve_extension_metotlar.pdb
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\rekürsif_ve_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\rekürsif_ve_extension_metotlar.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\rekürsif_ve_extension_metotlar.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\rekürsif_ve_extension_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\rekürsif_ve_extension_metotlar.dll
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\refint\rekürsif_ve_extension_metotlar.dll
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\rekürsif_ve_extension_metotlar.pdb
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\rekürsif_ve_extension_metotlar.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\rekürsif_ve_extension_metotlar\obj\Debug\net7.0\ref\rekürsif_ve_extension_metotlar.dll
